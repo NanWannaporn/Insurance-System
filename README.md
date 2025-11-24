@@ -23,8 +23,8 @@ It leverages Go's performance and GORM for robust database interaction.
 - Database: PostgreSQL
 
   
-🏃 Getting Started (Brief)
+🏃 Getting Started 
 
-1. Clone the Repository: git clone [repository_url]
+1. Clone the Repository: git clone https://github.com/NanWannaporn/Insurance-System.git
 2. Install Dependencies: go mod tidy
 3. Run: go run ./cmd/main.go
