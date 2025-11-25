@@ -1,4 +1,4 @@
-## 🛡️Insurance Policy Management System (Go/GORM)
+## 🛡️Insurance Management System (Go/GORM)
 
 This project is a RESTful API backend designed to manage core insurance operations,
 including customer records, beneficiary details, health declarations, and policy issuance. 
